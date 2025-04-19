@@ -117,6 +117,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE), exceto o dicionário
 
 **Leonardo Vichi**  
 Desenvolvido por [Leonardo Vichi](https://github.com/LeoVichi) para atividade de Estágio Pós-Doutoral junto ao Programa de Pós-Graduação em Letras Clássicas da Universidade Federal do Rio de Janeiro - PPGLC/UFRJ.
+
 contact@leonardovichi.com  
 [iuliuscaesar.org](https://iuliuscaesar.org)
 
