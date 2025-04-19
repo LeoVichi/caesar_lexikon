@@ -107,9 +107,11 @@ O script gera um arquivo `output/glossario_militar.json` com estrutura semelhant
 
 ---
 
-## 📜 Licença
+## 📘 Referências
 
-Este projeto está licenciado sob a [MIT License](LICENSE), exceto o dicionário Lewis & Short, que segue a licença própria disponível no repositório original.
+- Caesar, *Commentarii de Bello Gallico*
+- Charlton T. Lewis, Charles Short, A Latin Dictionary. 1879
+- Stanford NLP Group - Stanza
 
 ---
 
@@ -126,11 +128,9 @@ contact@leonardovichi.com
 ## ✨ Contribuição
 
 Pull requests são bem-vindos! Para mudanças maiores, por favor abra uma *issue* primeiro para discutirmos o que você gostaria de modificar.
-
+  
 ---
 
-## 📘 Referências
+## 📜 Licença
 
-- Caesar, *Commentarii de Bello Gallico*
-- Charlton T. Lewis, Charles Short, A Latin Dictionary. 1879
-- Stanford NLP Group - Stanza
+Este projeto está licenciado sob a [MIT License](LICENSE), exceto o dicionário Lewis & Short, que segue a licença própria disponível no repositório original.
