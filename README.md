@@ -49,24 +49,24 @@ project/
 
 ## 📦 Instalação
 
-# Clone o repositório principal
+### Clone o repositório principal
 git clone https://github.com/LeoVichi/caesar_lexikon
 cd caesar_lexikon
 
-# Crie a pasta para repositórios auxiliares
+### Crie a pasta para repositórios auxiliares
 mkdir -p repositoria/latin-dictionary
 
-# Clone o dicionário Lewis & Short
+### Clone o dicionário Lewis & Short
 git clone https://github.com/IohannesArnold/lewis-short-json repositoria/latin-dictionary/lewis-short-json-master
 
-# Crie um ambiente virtual
+### Crie um ambiente virtual
 python3 -m venv venv
 source venv/bin/activate
 
-# Instale as dependências
+### Instale as dependências
 pip install -r requirements.txt
 
-# Execute o script
+### Execute o script
 python lexikon.py
 ```
 
